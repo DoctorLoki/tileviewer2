@@ -12,3 +12,5 @@ TileViewer is a tiles server using Nearmap tiles, with OpenStreetMap tiles as a 
 
 4. Zoom in to a city mapped by Nearmap to see the tiles.
 
+5. Give focus to the map by clicking or tabbing, then use arrow keys or mouse to navigate.
+
